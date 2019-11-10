@@ -106,9 +106,9 @@ const resultHike = (HIKE_OBJECT: THikeObject) => {
 };
 
 /**
- * main関数
+ * main関数. 検知した俳句をconsoleに出力する.
  */
-module.exports = function({ types: t }) {
+module.exports = function() {
   return {
     name: "plugin-hike-detect",
     visitor: {
