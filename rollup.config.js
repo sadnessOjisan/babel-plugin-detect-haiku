@@ -6,6 +6,5 @@ module.exports = {
     file: "dist/bundle.js",
     format: "cjs"
   },
-  format: "es6",
   plugins: [typescript()]
 };

@@ -25,3 +25,9 @@ npm publish
 ```
 $ npm publish
 ```
+
+## examle
+
+```
+$ yarn babel example/test1.js
+```
