@@ -119,7 +119,6 @@ module.exports = function() {
         if (!kana) {
           // 単語辞書から該当する言葉を見つけられなかったとき
           resetHikeObj();
-          console.log("NOT FOUND");
         } else {
           if (countHikeWord(HIKE_OBJECT.first.kana) !== 5) {
             // 1句目が5文字じゃないときは1句目を操作
