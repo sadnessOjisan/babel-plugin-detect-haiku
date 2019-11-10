@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "build": "rollup -c",
-    "babel": "babel"
+    "babel": "babel -o ./example/babeled.js"
   },
   "devDependencies": {
     "rollup": "^1.26.4",
