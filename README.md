@@ -13,3 +13,15 @@ github flow に従う
 ```
 $ yarn install
 ```
+
+npm publish dry run
+
+```
+$ tar -tf $(npm pack)
+```
+
+npm publish
+
+```
+$ npm publish
+```
