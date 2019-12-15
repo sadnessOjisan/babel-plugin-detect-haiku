@@ -1,5 +1,5 @@
 {
-  "name": "plugin-detect575",
+  "name": "babel-plugin-detect-haiku",
   "version": "0.0.2",
   "main": "./dist/bundle.js",
   "repository": "https://github.com/sadnessOjisan/plugin-detect-575.git",
@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "build": "rollup -c",
-    "babel": "babel -o ./example/babeled.js"
+    "babel": "babel -o ./example/test1.js"
   },
   "devDependencies": {
     "rollup": "^1.26.4",
