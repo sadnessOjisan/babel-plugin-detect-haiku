@@ -1591,10 +1591,10 @@ growly@^1.3.0:
   resolved "https://registry.yarnpkg.com/growly/-/growly-1.3.0.tgz#f10748cbe76af964b7c96c93c6bcc28af120c081"
   integrity sha1-8QdIy+dq+WS3yWyTxrzCivEgwIE=
 
-haiku-core@^0.0.4:
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/haiku-core/-/haiku-core-0.0.4.tgz#07c2be065623300e53310afe726455c63873ac0f"
-  integrity sha512-EXjMLUdl4VV6NkMorO/OHHCNYPlOem29JgJ+/psZKKx4JJcWAz7v6EjG431aW4vEbmjzn7aM1EAvB8CxpBdrjg==
+haiku-core@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/haiku-core/-/haiku-core-1.0.0.tgz#19b0a769bbd54aa6628e45891507780046c366ce"
+  integrity sha512-oOwAtdR87nPzGokA8GeeaTOcOVIBzS7yGyiR5N/RUuAb/G6eGVExzrmRdIxDzBL1G6mBlTiKYbVv3L71WruVTA==
   dependencies:
     js-word-count-for-haiku "^1.0.3"
     js-word-kana "^1.0.0"

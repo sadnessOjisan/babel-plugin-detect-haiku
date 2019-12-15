@@ -1,13 +1,13 @@
 {
   "name": "babel-plugin-detect-haiku",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "./dist/bundle.js",
   "repository": "https://github.com/sadnessOjisan/plugin-detect-575.git",
   "author": "sadness_ojisan <sadness.ojisan@gmail.com>",
   "license": "MIT",
   "scripts": {
     "build": "rollup -c",
-    "babel": "babel -o ./example/test1.js"
+    "babel": "babel ./example/test1.js"
   },
   "devDependencies": {
     "rollup": "^1.26.4",
@@ -17,8 +17,6 @@
   },
   "dependencies": {
     "babel-cli": "^6.26.0",
-    "haiku-core": "^0.0.4",
-    "js-word-count-for-haiku": "^1.0.2",
-    "js-word-kana": "^0.0.6"
+    "haiku-core": "^1.0.0"
   }
 }
